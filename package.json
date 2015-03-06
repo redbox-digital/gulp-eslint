@@ -47,6 +47,7 @@
     }
   ],
   "dependencies": {
+    "babel-eslint": "^1.0.13",
     "bufferstreams": "1.0.1",
     "eslint": "^0.15.0",
     "gulp-util": "^3.0.1",
